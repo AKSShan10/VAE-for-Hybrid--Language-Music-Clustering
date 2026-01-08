@@ -1,0 +1,4 @@
+method,cluster_count,noise_ratio,ari,silhouette,davies_bouldin
+kmeans,2.0,0.0,,0.9989989995956421,2.5916870784940424e-09
+agglomerative,10.0,0.0,,0.0,0.900000033133624
+dbscan,1.0,0.001001001001001001,,,

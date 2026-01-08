@@ -1,0 +1,5 @@
+Method,Silhouette,NMI,ARI,Purity,N_Clusters
+VAE + K-Means,0.20042751729488373,,,,8
+Autoencoder + K-Means,0.1725308895111084,,,,8
+PCA + K-Means,0.0938886358517858,,,,8
+Spectral Features,0.03108510933816433,,,,8
